@@ -3,7 +3,7 @@
 I'm a tech enthusiast and creator passionate about both **coding** and **digital art**.  
 I love building interactive web projects, exploring tools, and learning new technologies every day.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="370px" />
 
 ---
 
