@@ -9,24 +9,29 @@ I love building interactive web projects, exploring tools, and learning new tech
 
 ### 🧠 What I Know
 
-<a href="https://www.python.org" target="_blank"><img alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/></a>
-<a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
-  <img alt="DaVinci Resolve" height="42px" src="https://img.icons8.com/color/48/davinci-resolve.png"/></a>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img alt="After Effects" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"/></a>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+    <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python" style="width: 42px; height: 42px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" title="C" style="width: 42px; height: 42px;"/>
+    <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" title="HTML" style="width: 42px; height: 42px;"/>
+    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS" style="width: 42px; height: 42px;"/>
+    <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript" style="width: 42px; height: 42px;"/>
+    <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase" style="width: 42px; height: 42px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" title="VS Code" style="width: 42px; height: 42px;"/>
+    <img src="https://img.icons8.com/color/48/davinci-resolve.png" alt="DaVinci Resolve" title="DaVinci Resolve" style="width: 42px; height: 42px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="After Effects" title="After Effects" style="width: 42px; height: 42px;"/>
+    <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" style="width: 42px; height: 42px;"/>
+  </div>
+</div>
+
+</div>
 
 ---
 
 ### 🌱 What I'm Currently Learning
 
-<a href="https://www.blender.org/" target="_blank"><img alt="Blender" height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"/></a>
-<a href="https://yaml.org/" target="_blank"><img alt="YAML" height="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png"/></a>
-<a href="https://git-scm.com/" target="_blank"><img alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/></a>
+<a href="https://www.blender.org/" target="_blank"><img alt="Blender" style="width: 42px; height: 42px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"/></a>
+<a href="https://yaml.org/" target="_blank"><img alt="YAML" style="width: 42px; height: 42px;" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png"/></a>
 
 ---
 
