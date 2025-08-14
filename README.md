@@ -20,7 +20,8 @@ I love building interactive web projects, exploring tools, and learning new tech
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" title="VS Code" style="width: 42px; height: 42px;"/>
     <img src="https://img.icons8.com/color/48/davinci-resolve.png" alt="DaVinci Resolve" title="DaVinci Resolve" style="width: 42px; height: 42px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="After Effects" title="After Effects" style="width: 42px; height: 42px;"/>
-    <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" style="width: 42px; height: 42px;"/>
+    <a href="https://www.blender.org/" target="_blank"><img alt="Blender" style="width: 42px; height: 42px;"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"/></a>
+
   </div>
 </div>
 
@@ -29,8 +30,8 @@ I love building interactive web projects, exploring tools, and learning new tech
 ---
 
 ### 🌱 What I'm Currently Learning
+<img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" style="width: 42px; height: 42px;"/>
 
-<a href="https://www.blender.org/" target="_blank"><img alt="Blender" style="width: 42px; height: 42px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"/></a>
 <a href="https://yaml.org/" target="_blank"><img alt="YAML" style="width: 42px; height: 42px;" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png"/></a>
 
 ---
