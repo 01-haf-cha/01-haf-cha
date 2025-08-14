@@ -30,9 +30,7 @@ I love building interactive web projects, exploring tools, and learning new tech
 ---
 
 ### 🌱 What I'm Currently Learning
-<img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" style="width: 42px; height: 42px;"/>
-
-<a href="https://yaml.org/" target="_blank"><img alt="YAML" style="width: 42px; height: 42px;" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png"/></a>
+<img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" style="width: 42px; height: 42px;"/> <a href="https://yaml.org/" target="_blank"><img alt="YAML" style="width: 42px; height: 42px;" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png"/></a>
 
 ---
 
